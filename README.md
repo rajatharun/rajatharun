@@ -26,7 +26,7 @@ I'm an ECE student (B.E., graduating 2026) with hands-on experience across embed
 |---|---|---|
 | [**EMG Gesture Recognition (STM32)**](https://github.com/rajatharun/emg-gesture-recognition-stm32f401) | Real-time sEMG-based hand gesture classification, from analog acquisition through DSP feature extraction to SVM classification | STM32F401CCU6, AD8232, CMSIS-DSP, MATLAB |
 | [**Verilog Traffic Light Controller**](https://github.com/rajatharun/verilog-traffic-light-controller) | FSM-based traffic controller for a T-intersection with adaptive timing and pedestrian crossing logic | Verilog, ModelSim, FPGA |
-| [**EV Battery Health Prediction (KNN + IoT)**](https://github.com/rajatharun/ev-battery-health-prediction-knn) | IoT-connected battery management system estimating SOC/SOH/RUL from sensor data | ATmega328P, NodeMCU (ESP8266), Python, KNN |
+| [**EV Battery Health Prediction (CatBoost + IoT)**](https://github.com/rajatharun/ev-battery-health-prediction-catboost) | IoT-connected battery management system estimating SOC/SOH/RUL from sensor data | ATmega328P, NodeMCU (ESP8266), Python, CatBoost |
 | [**Accident Detection & Alert System**](https://github.com/rajatharun/accident-detection-8051-gsm-gps) | Vehicle accident detection with automated GSM/GPS emergency notification | 8051, GSM, GPS, Accelerometer/Gyroscope |
 
 ## Experience
